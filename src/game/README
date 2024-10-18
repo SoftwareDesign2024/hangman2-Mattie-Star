@@ -1,0 +1,5 @@
+My name is Matilda Housley. 
+
+I followed my diagram pretty much completely besides moving isGameLost() from executioner to guesser as guesser had the 
+myNumGuessLeft field and the field myDisplayWord from HangmanGame to executioner as it required the secret word. I also 
+added print methods to hide data from each class, which was not in my original diagram. 
