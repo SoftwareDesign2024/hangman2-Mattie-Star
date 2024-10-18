@@ -1,0 +1,13 @@
+// Matilda
+import game.GameLoop;
+
+/**
+ * This class launches the Hangman game and plays once.
+ * @author Robert C. Duvall
+ * @author Shannon Duvall
+ */
+public class Main {
+	public static void main (String[] args) {
+		new GameLoop();
+    }
+}
